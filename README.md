@@ -6,6 +6,25 @@ This project detects human presence in a room and calculates real-time occupancy
 
 The project was developed as part of an IoT course and is fully simulation-based.
 
+### 🔹 `IOT_Proje/`
+This folder contains the **IoT implementation** of the project, including:
+- ESP32 logic
+- Wokwi simulation setup
+- MQTT-based communication
+- IoT control mechanisms (LED ON/OFF based on room occupancy)
+
+### 🔹 `report.pdf`
+This file provides the **comprehensive academic explanation** of the project, including:
+- System architecture
+- Methodology
+- Technologies used
+- Simulation results
+- Comparison with related works
+- Conclusion and future improvements
+
+📄 **For full technical and theoretical details, please refer to `report.pdf`.**
+
+---
 ---
 
 ## 🧠 System Architecture
